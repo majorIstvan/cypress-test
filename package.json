@@ -1,0 +1,21 @@
+{
+    "name": "agropark-cypress-e2e",
+    "version": "1.0.0",
+    "description": "Project for e2e testing agropark site with cypress.",
+    "main": "index.js",
+    "scripts": {
+        "start": "cypress open"
+    },
+    "keywords": [
+        "e2e",
+        "cypress",
+        "testing",
+        "typescript"
+    ],
+    "author": "Istvan Major",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^14.5.1",
+        "typescript": "^5.8.3"
+    }
+}
